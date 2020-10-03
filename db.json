@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "status": "Order Received",
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+        "order_details": {
+            "qty": 2,
+            "pizza_type": "Non-Veg Pizza",
+            "price": 320,
+            "customer_name": "Attu",
+            "customer_number": "+9196543210",
+            "customer_address": "BTM layout, Bangalore",
+            "total_amount": 640
+        }
+    },
+    {
+        "id": 2,
+        "status": "Preparing",
+        "image": "https://images.unsplash.com/photo-1574126154517-d1e0d89ef734?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80",
+        "order_details": {
+            "qty": 1,
+            "pizza_type": "Veg Pizza",
+            "price": 400,
+            "customer_name": "Nikesh",
+            "customer_number": "+9196543210",
+            "customer_address": "HSR Sector 7, Bangalore",
+            "total_amount": 400
+        }
+    }
+]
